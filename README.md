@@ -27,7 +27,7 @@ python notebooks/analysis.ipynb
 ```
 
 ## Dependencies
-This project requires Python 3.x. To install the required dependencies, you can create a virtual environment and use the following command:
+This project requires Python 3.x. To install the necessary dependencies, you can create a virtual environment and use the following command:
 ```
 pip install -r requirements.txt
 ```
@@ -41,4 +41,5 @@ The requirements.txt file includes the necessary libraries:
 * yellowbrick
 
 ## License
-??
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+[link](https://archive.ics.uci.edu/dataset/109/wine)
