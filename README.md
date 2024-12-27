@@ -71,7 +71,7 @@ Key highlights include:
 - Dimensionality reduction using feature importance from Random Forest
 
 ## Dataset
-The dataset is sourced from the UCI Machine Learning Repository and is accessible via the following [GitHub link](https://raw.githubusercontent.com/Zanyata/Wine-Classifier/refs/heads/main/data/wine.csv).
+The dataset is sourced from the UCI Machine Learning Repository and is accessible via the following [link](https://archive.ics.uci.edu/dataset/109/wine).
 
 ### Features
 The dataset includes the following attributes:
@@ -98,14 +98,14 @@ The target variable is the wine class, represented as:
 ## Project Structure
 ```
 |-- README.md          # Project description and usage
-|-- wine_classification.py  # Main script with all code
-|-- data/              # Folder containing the dataset (not included in repo)
+|-- Wine_classification_2.ipybn  # Main script with all code
+|-- data/              # Folder containing the dataset 
 ```
 
 ## Features
 1. **Data Preprocessing**:
-   - Data cleaning and scaling
-   - Visualizations: Correlation heatmap, boxplots, and pairplots
+   - Data scaling
+   - Visualizations: Correlation heatmap, boxplots
 2. **Exploratory Data Analysis (EDA)**:
    - Class distribution
    - Outlier detection
